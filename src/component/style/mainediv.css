@@ -1,0 +1,38 @@
+.maindivewraper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    font-family: "Inter";
+}
+
+.d-flex-center {
+    display: flex;
+    justify-content: center;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.css-1ji9qwp-MuiStep-root {
+    width: auto;
+}
+
+.MuiStepLabel-labelContainer span {
+    font-size: xx-large;
+}
+
+.m-1 {
+    margin: 1em;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.action {
+    color: gray;
+}
