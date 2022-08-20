@@ -45,9 +45,7 @@ export default function HorizontalLinearStepper() {
                 const stepProps = {};
                 const labelProps = {};
                 return (
-                  <Step sx={{
-                    width: 2000
-                  }}
+                  <Step 
                     key={label} {...stepProps} >
                     <StepLabel
                       sx={{ fontSize: 10, }
